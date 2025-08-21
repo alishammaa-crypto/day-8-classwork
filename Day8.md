@@ -1,4 +1,4 @@
-# Day 7 classwork
+# Day 8 classwork
 
 ## Ask the user with prompt() for their name and age.
 
